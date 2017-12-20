@@ -5,7 +5,7 @@
 	- A README file is frequently updated with every commit.
 	- Though the README may seem to be a tedious work, after first 
 	few commits the additions are miniscule, but the effort is worth it.
-	- A proper guidelines are essential for collaborative projects.
+	- Proper guidelines are essential for collaborative projects.
 	- below are some guidelines.
 
 
@@ -84,6 +84,7 @@
 	- local variables that die inside a function can also be safely discarded from writing
 	in this table
 	- every function can have a table of this sort
+	- the size row is generally for arrays
 
 |		| function 		|	var1	|	var2	|	var3	|	var4	|	var5	|	var6	|
 |	---	|	---			|	---		|	---		|	---		|	---		|	---		|	---		|
